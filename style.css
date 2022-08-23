@@ -1,0 +1,29 @@
+.first-section{
+    background-image: url(images/donation15.jpg);
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+    padding-bottom: 180px;
+    color: whitesmoke;
+}
+.first-h1{
+    font-size: 3em;
+    padding-top: 2em;
+    font-family: 'Poppins', sans-serif;
+}
+.first-p{
+    padding: 50px 200px;
+    font-size: 20px;
+}
+.first-section{
+    text-align: center;
+}
+button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: palegreen;
+}
